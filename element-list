@@ -1,0 +1,202 @@
+$dokka.format:javadoc-v1
+$dokka.linkExtension:html
+$dokka.location:com.nexomc.nexo.api.events.custom_block.chorusblock/NexoChorusBlockBreakEvent.Companion///PointingToDeclaration/com/nexomc/nexo/api/events/custom_block/chorusblock/NexoChorusBlockBreakEvent.Companion.html
+$dokka.location:com.nexomc.nexo.api.events.custom_block.chorusblock/NexoChorusBlockDamageEvent.Companion///PointingToDeclaration/com/nexomc/nexo/api/events/custom_block/chorusblock/NexoChorusBlockDamageEvent.Companion.html
+$dokka.location:com.nexomc.nexo.api.events.custom_block.chorusblock/NexoChorusBlockDropLootEvent.Companion///PointingToDeclaration/com/nexomc/nexo/api/events/custom_block/chorusblock/NexoChorusBlockDropLootEvent.Companion.html
+$dokka.location:com.nexomc.nexo.api.events.custom_block.chorusblock/NexoChorusBlockInteractEvent.Companion///PointingToDeclaration/com/nexomc/nexo/api/events/custom_block/chorusblock/NexoChorusBlockInteractEvent.Companion.html
+$dokka.location:com.nexomc.nexo.api.events.custom_block.chorusblock/NexoChorusBlockPlaceEvent.Companion///PointingToDeclaration/com/nexomc/nexo/api/events/custom_block/chorusblock/NexoChorusBlockPlaceEvent.Companion.html
+$dokka.location:com.nexomc.nexo.api.events.custom_block.noteblock/NexoNoteBlockBreakEvent.Companion///PointingToDeclaration/com/nexomc/nexo/api/events/custom_block/noteblock/NexoNoteBlockBreakEvent.Companion.html
+$dokka.location:com.nexomc.nexo.api.events.custom_block.noteblock/NexoNoteBlockDamageEvent.Companion///PointingToDeclaration/com/nexomc/nexo/api/events/custom_block/noteblock/NexoNoteBlockDamageEvent.Companion.html
+$dokka.location:com.nexomc.nexo.api.events.custom_block.noteblock/NexoNoteBlockDropLootEvent.Companion///PointingToDeclaration/com/nexomc/nexo/api/events/custom_block/noteblock/NexoNoteBlockDropLootEvent.Companion.html
+$dokka.location:com.nexomc.nexo.api.events.custom_block.noteblock/NexoNoteBlockInteractEvent.Companion///PointingToDeclaration/com/nexomc/nexo/api/events/custom_block/noteblock/NexoNoteBlockInteractEvent.Companion.html
+$dokka.location:com.nexomc.nexo.api.events.custom_block.noteblock/NexoNoteBlockPlaceEvent.Companion///PointingToDeclaration/com/nexomc/nexo/api/events/custom_block/noteblock/NexoNoteBlockPlaceEvent.Companion.html
+$dokka.location:com.nexomc.nexo.api.events.custom_block.stringblock/NexoStringBlockBreakEvent.Companion///PointingToDeclaration/com/nexomc/nexo/api/events/custom_block/stringblock/NexoStringBlockBreakEvent.Companion.html
+$dokka.location:com.nexomc.nexo.api.events.custom_block.stringblock/NexoStringBlockDamageEvent.Companion///PointingToDeclaration/com/nexomc/nexo/api/events/custom_block/stringblock/NexoStringBlockDamageEvent.Companion.html
+$dokka.location:com.nexomc.nexo.api.events.custom_block.stringblock/NexoStringBlockDropLootEvent.Companion///PointingToDeclaration/com/nexomc/nexo/api/events/custom_block/stringblock/NexoStringBlockDropLootEvent.Companion.html
+$dokka.location:com.nexomc.nexo.api.events.custom_block.stringblock/NexoStringBlockInteractEvent.Companion///PointingToDeclaration/com/nexomc/nexo/api/events/custom_block/stringblock/NexoStringBlockInteractEvent.Companion.html
+$dokka.location:com.nexomc.nexo.api.events.custom_block.stringblock/NexoStringBlockPlaceEvent.Companion///PointingToDeclaration/com/nexomc/nexo/api/events/custom_block/stringblock/NexoStringBlockPlaceEvent.Companion.html
+$dokka.location:com.nexomc.nexo.api.events.custom_block/NexoBlockBreakEvent.Companion///PointingToDeclaration/com/nexomc/nexo/api/events/custom_block/NexoBlockBreakEvent.Companion.html
+$dokka.location:com.nexomc.nexo.api.events.custom_block/NexoBlockDamageEvent.Companion///PointingToDeclaration/com/nexomc/nexo/api/events/custom_block/NexoBlockDamageEvent.Companion.html
+$dokka.location:com.nexomc.nexo.api.events.custom_block/NexoBlockInteractEvent.Companion///PointingToDeclaration/com/nexomc/nexo/api/events/custom_block/NexoBlockInteractEvent.Companion.html
+$dokka.location:com.nexomc.nexo.api.events.custom_block/NexoBlockPlaceEvent.Companion///PointingToDeclaration/com/nexomc/nexo/api/events/custom_block/NexoBlockPlaceEvent.Companion.html
+$dokka.location:com.nexomc.nexo.api.events.custom_block/NexoCustomBlockDropLootEvent.Companion///PointingToDeclaration/com/nexomc/nexo/api/events/custom_block/NexoCustomBlockDropLootEvent.Companion.html
+$dokka.location:com.nexomc.nexo.api.events.furniture/NexoFurnitureBreakEvent.Companion///PointingToDeclaration/com/nexomc/nexo/api/events/furniture/NexoFurnitureBreakEvent.Companion.html
+$dokka.location:com.nexomc.nexo.api.events.furniture/NexoFurnitureDamageEvent.Companion///PointingToDeclaration/com/nexomc/nexo/api/events/furniture/NexoFurnitureDamageEvent.Companion.html
+$dokka.location:com.nexomc.nexo.api.events.furniture/NexoFurnitureInteractEvent.Companion///PointingToDeclaration/com/nexomc/nexo/api/events/furniture/NexoFurnitureInteractEvent.Companion.html
+$dokka.location:com.nexomc.nexo.api.events.furniture/NexoFurniturePlaceEvent.Companion///PointingToDeclaration/com/nexomc/nexo/api/events/furniture/NexoFurniturePlaceEvent.Companion.html
+$dokka.location:com.nexomc.nexo.api.events.resourcepack/NexoPackUploadEvent.Companion///PointingToDeclaration/com/nexomc/nexo/api/events/resourcepack/NexoPackUploadEvent.Companion.html
+$dokka.location:com.nexomc.nexo.api.events.resourcepack/NexoPostPackGenerateEvent.Companion///PointingToDeclaration/com/nexomc/nexo/api/events/resourcepack/NexoPostPackGenerateEvent.Companion.html
+$dokka.location:com.nexomc.nexo.api.events.resourcepack/NexoPrePackGenerateEvent.Companion///PointingToDeclaration/com/nexomc/nexo/api/events/resourcepack/NexoPrePackGenerateEvent.Companion.html
+$dokka.location:com.nexomc.nexo.api.events/NexoItemsLoadedEvent.Companion///PointingToDeclaration/com/nexomc/nexo/api/events/NexoItemsLoadedEvent.Companion.html
+$dokka.location:com.nexomc.nexo.api.events/NexoMechanicsRegisteredEvent.Companion///PointingToDeclaration/com/nexomc/nexo/api/events/NexoMechanicsRegisteredEvent.Companion.html
+$dokka.location:com.nexomc.nexo.compatibilities.modelengine/ModelEngineCompatibility.Companion///PointingToDeclaration/com/nexomc/nexo/compatibilities/modelengine/ModelEngineCompatibility.Companion.html
+$dokka.location:com.nexomc.nexo.compatibilities.worldedit/CustomBlocksFactory.Companion///PointingToDeclaration/com/nexomc/nexo/compatibilities/worldedit/CustomBlocksFactory.Companion.html
+$dokka.location:com.nexomc.nexo.configs/ConfigsManager.Companion///PointingToDeclaration/com/nexomc/nexo/configs/ConfigsManager.Companion.html
+$dokka.location:com.nexomc.nexo.configs/RemovedSettings.Companion///PointingToDeclaration/com/nexomc/nexo/configs/RemovedSettings.Companion.html
+$dokka.location:com.nexomc.nexo.configs/ResourceManager.Resource///PointingToDeclaration/com/nexomc/nexo/configs/ResourceManager.Resource.html
+$dokka.location:com.nexomc.nexo.configs/Settings.Companion///PointingToDeclaration/com/nexomc/nexo/configs/Settings.Companion.html
+$dokka.location:com.nexomc.nexo.configs/UpdatedSettings.Companion///PointingToDeclaration/com/nexomc/nexo/configs/UpdatedSettings.Companion.html
+$dokka.location:com.nexomc.nexo.converter/Converter.ItemsAdderConverter///PointingToDeclaration/com/nexomc/nexo/converter/Converter.ItemsAdderConverter.html
+$dokka.location:com.nexomc.nexo.converter/Converter.OraxenConverter///PointingToDeclaration/com/nexomc/nexo/converter/Converter.OraxenConverter.html
+$dokka.location:com.nexomc.nexo.converter/ItemsAdderConverterListener.Companion///PointingToDeclaration/com/nexomc/nexo/converter/ItemsAdderConverterListener.Companion.html
+$dokka.location:com.nexomc.nexo.fonts/FontListener.ChatHandler.Companion///PointingToDeclaration/com/nexomc/nexo/fonts/FontListener.ChatHandler.Companion.html
+$dokka.location:com.nexomc.nexo.fonts/FontListener.ChatHandler///PointingToDeclaration/com/nexomc/nexo/fonts/FontListener.ChatHandler.html
+$dokka.location:com.nexomc.nexo.fonts/FontListener.PaperChatHandler///PointingToDeclaration/com/nexomc/nexo/fonts/FontListener.PaperChatHandler.html
+$dokka.location:com.nexomc.nexo.fonts/FontListener.SpigotChatHandler///PointingToDeclaration/com/nexomc/nexo/fonts/FontListener.SpigotChatHandler.html
+$dokka.location:com.nexomc.nexo.fonts/Glyph.Companion///PointingToDeclaration/com/nexomc/nexo/fonts/Glyph.Companion.html
+$dokka.location:com.nexomc.nexo.items/CustomModelData.Companion///PointingToDeclaration/com/nexomc/nexo/items/CustomModelData.Companion.html
+$dokka.location:com.nexomc.nexo.items/ItemBuilder.Companion///PointingToDeclaration/com/nexomc/nexo/items/ItemBuilder.Companion.html
+$dokka.location:com.nexomc.nexo.items/ItemParser.Companion///PointingToDeclaration/com/nexomc/nexo/items/ItemParser.Companion.html
+$dokka.location:com.nexomc.nexo.items/ItemUpdater.Companion///PointingToDeclaration/com/nexomc/nexo/items/ItemUpdater.Companion.html
+$dokka.location:com.nexomc.nexo.items/NexoMeta.CustomArmorTextures///PointingToDeclaration/com/nexomc/nexo/items/NexoMeta.CustomArmorTextures.html
+$dokka.location:com.nexomc.nexo.mechanics.combat.spell/SpellMechanic.Companion///PointingToDeclaration/com/nexomc/nexo/mechanics/combat/spell/SpellMechanic.Companion.html
+$dokka.location:com.nexomc.nexo.mechanics.custom_block.chorusblock/ChorusBlockFactory.Companion///PointingToDeclaration/com/nexomc/nexo/mechanics/custom_block/chorusblock/ChorusBlockFactory.Companion.html
+$dokka.location:com.nexomc.nexo.mechanics.custom_block.noteblock.directional/DirectionalBlock.DirectionalType///PointingToDeclaration/com/nexomc/nexo/mechanics/custom_block/noteblock/directional/DirectionalBlock.DirectionalType.html
+$dokka.location:com.nexomc.nexo.mechanics.custom_block.noteblock/NoteBlockMechanic.Companion///PointingToDeclaration/com/nexomc/nexo/mechanics/custom_block/noteblock/NoteBlockMechanic.Companion.html
+$dokka.location:com.nexomc.nexo.mechanics.custom_block.noteblock/NoteBlockMechanicFactory.Companion///PointingToDeclaration/com/nexomc/nexo/mechanics/custom_block/noteblock/NoteBlockMechanicFactory.Companion.html
+$dokka.location:com.nexomc.nexo.mechanics.custom_block.noteblock/NoteBlockMechanicListener.Companion///PointingToDeclaration/com/nexomc/nexo/mechanics/custom_block/noteblock/NoteBlockMechanicListener.Companion.html
+$dokka.location:com.nexomc.nexo.mechanics.custom_block.stringblock.sapling/SaplingMechanic.Companion///PointingToDeclaration/com/nexomc/nexo/mechanics/custom_block/stringblock/sapling/SaplingMechanic.Companion.html
+$dokka.location:com.nexomc.nexo.mechanics.custom_block.stringblock.sapling/SaplingMechanic.SchematicEntry///PointingToDeclaration/com/nexomc/nexo/mechanics/custom_block/stringblock/sapling/SaplingMechanic.SchematicEntry.html
+$dokka.location:com.nexomc.nexo.mechanics.custom_block.stringblock/StringBlockMechanicFactory.Companion///PointingToDeclaration/com/nexomc/nexo/mechanics/custom_block/stringblock/StringBlockMechanicFactory.Companion.html
+$dokka.location:com.nexomc.nexo.mechanics.custom_block/CustomBlockFactory.Companion///PointingToDeclaration/com/nexomc/nexo/mechanics/custom_block/CustomBlockFactory.Companion.html
+$dokka.location:com.nexomc.nexo.mechanics.custom_block/CustomBlockFactory.CustomBlockSounds///PointingToDeclaration/com/nexomc/nexo/mechanics/custom_block/CustomBlockFactory.CustomBlockSounds.html
+$dokka.location:com.nexomc.nexo.mechanics.custom_block/CustomBlockSoundListener.Companion///PointingToDeclaration/com/nexomc/nexo/mechanics/custom_block/CustomBlockSoundListener.Companion.html
+$dokka.location:com.nexomc.nexo.mechanics.farming.harvesting/HarvestingMechanicFactory.Companion///PointingToDeclaration/com/nexomc/nexo/mechanics/farming/harvesting/HarvestingMechanicFactory.Companion.html
+$dokka.location:com.nexomc.nexo.mechanics.farming.smelting/SmeltingMechanicFactory.Companion///PointingToDeclaration/com/nexomc/nexo/mechanics/farming/smelting/SmeltingMechanicFactory.Companion.html
+$dokka.location:com.nexomc.nexo.mechanics.furniture.bed/FurnitureBed.Companion///PointingToDeclaration/com/nexomc/nexo/mechanics/furniture/bed/FurnitureBed.Companion.html
+$dokka.location:com.nexomc.nexo.mechanics.furniture.connectable/ConnectableItemType.Companion///PointingToDeclaration/com/nexomc/nexo/mechanics/furniture/connectable/ConnectableItemType.Companion.html
+$dokka.location:com.nexomc.nexo.mechanics.furniture.connectable/ConnectableMechanic.Companion///PointingToDeclaration/com/nexomc/nexo/mechanics/furniture/connectable/ConnectableMechanic.Companion.html
+$dokka.location:com.nexomc.nexo.mechanics.furniture.connectable/ConnectableMechanic.ConnectType.Companion///PointingToDeclaration/com/nexomc/nexo/mechanics/furniture/connectable/ConnectableMechanic.ConnectType.Companion.html
+$dokka.location:com.nexomc.nexo.mechanics.furniture.connectable/ConnectableMechanic.ConnectType///PointingToDeclaration/com/nexomc/nexo/mechanics/furniture/connectable/ConnectableMechanic.ConnectType.html
+$dokka.location:com.nexomc.nexo.mechanics.furniture.hitbox/FurnitureHitbox.Companion///PointingToDeclaration/com/nexomc/nexo/mechanics/furniture/hitbox/FurnitureHitbox.Companion.html
+$dokka.location:com.nexomc.nexo.mechanics.furniture.hitbox/InteractionHitbox.Companion///PointingToDeclaration/com/nexomc/nexo/mechanics/furniture/hitbox/InteractionHitbox.Companion.html
+$dokka.location:com.nexomc.nexo.mechanics.furniture.hitbox/ShulkerHitbox.Companion///PointingToDeclaration/com/nexomc/nexo/mechanics/furniture/hitbox/ShulkerHitbox.Companion.html
+$dokka.location:com.nexomc.nexo.mechanics.furniture.jukebox/JukeboxBlock.Companion///PointingToDeclaration/com/nexomc/nexo/mechanics/furniture/jukebox/JukeboxBlock.Companion.html
+$dokka.location:com.nexomc.nexo.mechanics.furniture.listeners/FurnitureSoundListener.Companion///PointingToDeclaration/com/nexomc/nexo/mechanics/furniture/listeners/FurnitureSoundListener.Companion.html
+$dokka.location:com.nexomc.nexo.mechanics.furniture.seats/FurnitureSeat.Companion///PointingToDeclaration/com/nexomc/nexo/mechanics/furniture/seats/FurnitureSeat.Companion.html
+$dokka.location:com.nexomc.nexo.mechanics.furniture/BlockLocation.Companion///PointingToDeclaration/com/nexomc/nexo/mechanics/furniture/BlockLocation.Companion.html
+$dokka.location:com.nexomc.nexo.mechanics.furniture/FurnitureFactory.Companion///PointingToDeclaration/com/nexomc/nexo/mechanics/furniture/FurnitureFactory.Companion.html
+$dokka.location:com.nexomc.nexo.mechanics.furniture/FurnitureMechanic.Companion///PointingToDeclaration/com/nexomc/nexo/mechanics/furniture/FurnitureMechanic.Companion.html
+$dokka.location:com.nexomc.nexo.mechanics.furniture/FurnitureMechanic.RestrictedRotation.Companion///PointingToDeclaration/com/nexomc/nexo/mechanics/furniture/FurnitureMechanic.RestrictedRotation.Companion.html
+$dokka.location:com.nexomc.nexo.mechanics.furniture/FurnitureMechanic.RestrictedRotation///PointingToDeclaration/com/nexomc/nexo/mechanics/furniture/FurnitureMechanic.RestrictedRotation.html
+$dokka.location:com.nexomc.nexo.mechanics.furniture/IFurniturePacketManager.Companion///PointingToDeclaration/com/nexomc/nexo/mechanics/furniture/IFurniturePacketManager.Companion.html
+$dokka.location:com.nexomc.nexo.mechanics.light/LightMechanic.Companion///PointingToDeclaration/com/nexomc/nexo/mechanics/light/LightMechanic.Companion.html
+$dokka.location:com.nexomc.nexo.mechanics.limitedplacing/LimitedPlacing.LimitedPlacingType///PointingToDeclaration/com/nexomc/nexo/mechanics/limitedplacing/LimitedPlacing.LimitedPlacingType.html
+$dokka.location:com.nexomc.nexo.mechanics.limitedplacing/LimitedPlacing.RadiusLimitation///PointingToDeclaration/com/nexomc/nexo/mechanics/limitedplacing/LimitedPlacing.RadiusLimitation.html
+$dokka.location:com.nexomc.nexo.mechanics.misc.armor_effects/ArmorEffectsFactory.Companion///PointingToDeclaration/com/nexomc/nexo/mechanics/misc/armor_effects/ArmorEffectsFactory.Companion.html
+$dokka.location:com.nexomc.nexo.mechanics.misc.armor_effects/ArmorEffectsMechanic.Companion///PointingToDeclaration/com/nexomc/nexo/mechanics/misc/armor_effects/ArmorEffectsMechanic.Companion.html
+$dokka.location:com.nexomc.nexo.mechanics.misc.backpack/BackpackMechanic.Companion///PointingToDeclaration/com/nexomc/nexo/mechanics/misc/backpack/BackpackMechanic.Companion.html
+$dokka.location:com.nexomc.nexo.mechanics.misc.custom.fields/CustomEventType.CustomListenerConstructor///PointingToDeclaration/com/nexomc/nexo/mechanics/misc/custom/fields/CustomEventType.CustomListenerConstructor.html
+$dokka.location:com.nexomc.nexo.mechanics.misc.itemtype/ItemTypeMechanicFactory.Companion///PointingToDeclaration/com/nexomc/nexo/mechanics/misc/itemtype/ItemTypeMechanicFactory.Companion.html
+$dokka.location:com.nexomc.nexo.mechanics.misc.misc/MiscMechanicFactory.Companion///PointingToDeclaration/com/nexomc/nexo/mechanics/misc/misc/MiscMechanicFactory.Companion.html
+$dokka.location:com.nexomc.nexo.mechanics.misc.soulbound/SoulBoundMechanic.Companion///PointingToDeclaration/com/nexomc/nexo/mechanics/misc/soulbound/SoulBoundMechanic.Companion.html
+$dokka.location:com.nexomc.nexo.mechanics.storage/StorageMechanic.Companion///PointingToDeclaration/com/nexomc/nexo/mechanics/storage/StorageMechanic.Companion.html
+$dokka.location:com.nexomc.nexo.mechanics/MechanicsManager.FactoryConstructor///PointingToDeclaration/com/nexomc/nexo/mechanics/MechanicsManager.FactoryConstructor.html
+$dokka.location:com.nexomc.nexo.nms/IPacketHandler.Companion///PointingToDeclaration/com/nexomc/nexo/nms/IPacketHandler.Companion.html
+$dokka.location:com.nexomc.nexo.nms/IPacketHandler.EmptyPacketHandler///PointingToDeclaration/com/nexomc/nexo/nms/IPacketHandler.EmptyPacketHandler.html
+$dokka.location:com.nexomc.nexo.nms/IPluginConverter.EmptyPluginConverter///PointingToDeclaration/com/nexomc/nexo/nms/IPluginConverter.EmptyPluginConverter.html
+$dokka.location:com.nexomc.nexo.nms/NMSHandler.Companion///PointingToDeclaration/com/nexomc/nexo/nms/NMSHandler.Companion.html
+$dokka.location:com.nexomc.nexo.pack.server/NexoPackServer.Companion///PointingToDeclaration/com/nexomc/nexo/pack/server/NexoPackServer.Companion.html
+$dokka.location:com.nexomc.nexo.pack/NexoPackSquash.Companion///PointingToDeclaration/com/nexomc/nexo/pack/NexoPackSquash.Companion.html
+$dokka.location:com.nexomc.nexo.pack/PackGenerator.Companion///PointingToDeclaration/com/nexomc/nexo/pack/PackGenerator.Companion.html
+$dokka.location:com.nexomc.nexo.pack/PackObfuscator.Type///PointingToDeclaration/com/nexomc/nexo/pack/PackObfuscator.Type.html
+$dokka.location:com.nexomc.nexo.pack/ShaderUtils.ScoreboardBackground///PointingToDeclaration/com/nexomc/nexo/pack/ShaderUtils.ScoreboardBackground.html
+$dokka.location:com.nexomc.nexo.recipes/CustomRecipe.Companion///PointingToDeclaration/com/nexomc/nexo/recipes/CustomRecipe.Companion.html
+$dokka.location:com.nexomc.nexo.utils.blocksounds/BlockSounds.Companion///PointingToDeclaration/com/nexomc/nexo/utils/blocksounds/BlockSounds.Companion.html
+$dokka.location:com.nexomc.nexo.utils.breaker/LegacyBreakerManager.ActiveBreakerData///PointingToDeclaration/com/nexomc/nexo/utils/breaker/LegacyBreakerManager.ActiveBreakerData.html
+$dokka.location:com.nexomc.nexo.utils.customarmor/CustomArmorType.Companion///PointingToDeclaration/com/nexomc/nexo/utils/customarmor/CustomArmorType.Companion.html
+$dokka.location:com.nexomc.nexo.utils/InteractionResult.Companion///PointingToDeclaration/com/nexomc/nexo/utils/InteractionResult.Companion.html
+$dokka.location:com.nexomc.nexo.utils/JarReader.StringPatternMatching///PointingToDeclaration/com/nexomc/nexo/utils/JarReader.StringPatternMatching.html
+$dokka.location:com.nexomc.nexo.utils/MinecraftVersion.Companion///PointingToDeclaration/com/nexomc/nexo/utils/MinecraftVersion.Companion.html
+$dokka.location:com.nexomc.nexo.utils/NexoYaml.Companion///PointingToDeclaration/com/nexomc/nexo/utils/NexoYaml.Companion.html
+$dokka.location:com.nexomc.nexo.utils/VersionUtil.NMSVersion///PointingToDeclaration/com/nexomc/nexo/utils/VersionUtil.NMSVersion.html
+$dokka.location:com.nexomc.nexo/NexoPlugin.Companion///PointingToDeclaration/com/nexomc/nexo/NexoPlugin.Companion.html
+com.nexomc.nexo
+com.nexomc.nexo.api
+com.nexomc.nexo.api.events
+com.nexomc.nexo.api.events.custom_block
+com.nexomc.nexo.api.events.custom_block.chorusblock
+com.nexomc.nexo.api.events.custom_block.noteblock
+com.nexomc.nexo.api.events.custom_block.stringblock
+com.nexomc.nexo.api.events.furniture
+com.nexomc.nexo.api.events.resourcepack
+com.nexomc.nexo.commands
+com.nexomc.nexo.compatibilities
+com.nexomc.nexo.compatibilities.blocklocker
+com.nexomc.nexo.compatibilities.ecoitems
+com.nexomc.nexo.compatibilities.mmoitems
+com.nexomc.nexo.compatibilities.modelengine
+com.nexomc.nexo.compatibilities.mythiccrucible
+com.nexomc.nexo.compatibilities.mythicmobs
+com.nexomc.nexo.compatibilities.placeholderapi
+com.nexomc.nexo.compatibilities.worldedit
+com.nexomc.nexo.compatibilities.worldguard
+com.nexomc.nexo.configs
+com.nexomc.nexo.converter
+com.nexomc.nexo.fonts
+com.nexomc.nexo.items
+com.nexomc.nexo.mechanics
+com.nexomc.nexo.mechanics.breakable
+com.nexomc.nexo.mechanics.combat.lifesteal
+com.nexomc.nexo.mechanics.combat.spell
+com.nexomc.nexo.mechanics.combat.spell.energyblast
+com.nexomc.nexo.mechanics.combat.spell.fireball
+com.nexomc.nexo.mechanics.combat.spell.thor
+com.nexomc.nexo.mechanics.combat.spell.witherskull
+com.nexomc.nexo.mechanics.custom_block
+com.nexomc.nexo.mechanics.custom_block.chorusblock
+com.nexomc.nexo.mechanics.custom_block.noteblock
+com.nexomc.nexo.mechanics.custom_block.noteblock.beacon
+com.nexomc.nexo.mechanics.custom_block.noteblock.directional
+com.nexomc.nexo.mechanics.custom_block.noteblock.logstrip
+com.nexomc.nexo.mechanics.custom_block.stringblock
+com.nexomc.nexo.mechanics.custom_block.stringblock.sapling
+com.nexomc.nexo.mechanics.farming.harvesting
+com.nexomc.nexo.mechanics.farming.smelting
+com.nexomc.nexo.mechanics.furniture
+com.nexomc.nexo.mechanics.furniture.bed
+com.nexomc.nexo.mechanics.furniture.compatibility
+com.nexomc.nexo.mechanics.furniture.connectable
+com.nexomc.nexo.mechanics.furniture.evolution
+com.nexomc.nexo.mechanics.furniture.hitbox
+com.nexomc.nexo.mechanics.furniture.jukebox
+com.nexomc.nexo.mechanics.furniture.listeners
+com.nexomc.nexo.mechanics.furniture.rotatable
+com.nexomc.nexo.mechanics.furniture.seats
+com.nexomc.nexo.mechanics.light
+com.nexomc.nexo.mechanics.limitedplacing
+com.nexomc.nexo.mechanics.misc.armor_effects
+com.nexomc.nexo.mechanics.misc.backpack
+com.nexomc.nexo.mechanics.misc.commands
+com.nexomc.nexo.mechanics.misc.custom
+com.nexomc.nexo.mechanics.misc.custom.fields
+com.nexomc.nexo.mechanics.misc.custom.listeners
+com.nexomc.nexo.mechanics.misc.itemtype
+com.nexomc.nexo.mechanics.misc.misc
+com.nexomc.nexo.mechanics.misc.soulbound
+com.nexomc.nexo.mechanics.repair
+com.nexomc.nexo.mechanics.storage
+com.nexomc.nexo.nms
+com.nexomc.nexo.pack
+com.nexomc.nexo.pack.creative
+com.nexomc.nexo.pack.server
+com.nexomc.nexo.recipes
+com.nexomc.nexo.recipes.builders
+com.nexomc.nexo.recipes.listeners
+com.nexomc.nexo.recipes.loaders
+com.nexomc.nexo.utils
+com.nexomc.nexo.utils.actions
+com.nexomc.nexo.utils.actions.impl.command
+com.nexomc.nexo.utils.actions.impl.message
+com.nexomc.nexo.utils.actions.impl.other
+com.nexomc.nexo.utils.blocksounds
+com.nexomc.nexo.utils.breaker
+com.nexomc.nexo.utils.commands
+com.nexomc.nexo.utils.customarmor
+com.nexomc.nexo.utils.drops
+com.nexomc.nexo.utils.inventories
+com.nexomc.nexo.utils.jukebox_playable
+com.nexomc.nexo.utils.libs
+com.nexomc.nexo.utils.logs
+com.nexomc.nexo.utils.timers
+com.nexomc.nexo.utils.wrappers
